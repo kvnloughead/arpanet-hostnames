@@ -1,0 +1,1117 @@
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+HOST ACRONYMS AND NETWORK LIAISON
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+ACCAT - TIP 2/35 TIP ARPA Brennan , Jack ( STEPHENSON@ISI )
+Naval Ocean Systems Center
+Code 722
+217 Catalina Blvd. San Diego , California 92152
+( 714 ) 225-2871
+AFWL 0/48 SERVER , AFSC
+Limited
+Havens , Martin ( AFWL@I4 - TENEX )
+Air Force Weapons Laboratory
+Kirtland Air Force Base Albuquerque , New Mexico 87117 ( 505 ) 264-0319
+AFWL - TIP 2/48 TIP AFSC Maull , Roy ( MAULL@BBN - TENEX )
+Air Force Weapons Lab./ADPT Kirtland Air Force Base ,
+New Mexico 87117
+( 505 ) 264-2581
+[ ALMSA - TIP] 2/61 TIP ARMY Nelson , Steve ( JAMES @ BBNB )
+Commander Army Communications Command
+Attn : Steve Nelson , CCNC - STL - S
+St. Louis , Missouri 63188
+AMES - 11 3/16 USER ARPA Hart , James P. ( HART@AMES - 67 )
+NASA Ames Research Center
+Network Graphics Group Mail Stop 233-9 Moffett Field , California 94035
+( 415 ) 965-6629
+AMES - 67 0/16 SERVER ARPA Hathaway , Wayne ( HATHAWAY@AMES - 67 )
+NASA Ames Research Center
+Computation Division
+Mail Stop 233-9 Moffett Field , California 94035 ( 415 ) 965-6033
+AMES - TIP 2/16 TIP ARPA Jones , Bill ( JONES@I4 - TENEX )
+NASA Ames Research Center
+Computation Division
+Mail Stop 233-10 Moffett Field , California 94035
+( 415 ) 965-6482
+ANL 0/55 SERVER DOE Amiot , Lawrence ( AMIOT@BBN - TENEX )
+Argonne National Laboratory Applied Mathematics Division
+Building 221
+9700 South Cass Avenue Argonne , Illinois 60439
+( 312 ) 972-5432
+197
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+ARPA - DMS 0728 SERVER , ARPA
+Limited
+McLindon , Connie ( MCLINDON@ISI )
+Advanced Research Projects Agency ( ARPA )
+Chief , Management Information
+Systems Division Office 1400 Wilson Boulevard
+Arlington , Virginia 22209
+( 202 ) 694-3045
+ARPA - TIP 2/28 TIP ARPA McLindon , Connie ( MCLINDON@ISI )
+Advanced Research Projects Agency ( ARPA )
+Chief , Management Information
+Systems Division office
+1400 Wilson Boulevard
+Arlington , Virginia 22209 ( 202 ) 694-3045
+ARPA - XGP11 3/28 USER ARPA McLindon , Connie ( MCLINDON@ISI )
+Advanced Research Projects
+Agency ( ARPA )
+Chief , Management Information Systems Division Office
+1400 Wilson Boulevard
+Arlington , Virginia 22209
+( 202 ) 694-3045
+ASL 1/48 USER , VDH ARPA
+Magtape ,
+Hoffman , John P. ( JHOFFMAN@ISIC )
+U.S. Geological Survey
+Albuquerque Seismological Laboratory
+Kirtland Air Force Base East Albuquerque , New Mexico 87115
+( 505 ) 264-4637
+BBN - GATEWAY 3/40 USER , ARPA
+VDH
+Bressler , Robert ( BRESSLER@BBNE )
+Bolt Beranek and Newman Inc.
+50 Moulton Street Cambridge , Massachusetts 02138 ( 617 ) 491-1850 ext 477
+BBN - INLAT 1/5 USER ARPA Grignetti , Mario ( GRIGNETTI@BBND )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 394
+BBN - NCC 0/40 USER DCA McKenzie , Alex ( MCKENZIE@BBNE )
+Bolt Beranek and Newman Inc. 50 Moulton Street Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 441
+198
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+BBN - PTIP 2/5 PTIP ARPA Chipman , Stephen G. ( CHIPMAN@BBN )
+Bolt Beranek and Newman Inc.
+50 Moulton Street Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 505
+BBN - SPEECH - 11 2/49 USER ARPA Cosell Lynn ( LCOSELL@BBN - TENEXD )
+Bolt Beranek and Newman Inc. 50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 554
+BBN - TENEX 3/49 SERVER ARPA Chipman , Stephen G. ( CHIPMAN@BBNA )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 505
+BBN - TENEXA 3/5 SERVER ARPA Chipman , Stephen G. ( CHIPMAN@BBNA )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491 -1850 ext 505
+BBN - TENEXB 0/49 SERVER ARPA Chipman , Stephen G. ( CHIPMAN@BBNA )
+Bolt Beranek and Newman Inc.
+50 Moulton Street Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 505
+BBN - TENEXD 1/49 SERVER , ARPA
+Limited
+Chipman , Stephen G. ( CHIPMAN@BBNA )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 505
+BBN - TENEXE 0/5 SERVER ARPA Chipman , Stephen G. ( CHIPMAN@BBNA )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491 -1850 ext 505
+BBN - TESTIP 2/30 TIP , DCA
+Magtape
+Santos , Paul ( SANTOS@BBN - TENEXE )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 603
+BBN - UNIX 0/63 SERVER , ARPA
+Limited
+Nemeth , Alan G. ( agn@BBN - UNIX )
+Bolt Beranek and Newman Inc.
+50 Moulton Street Cambridge , Massachusetts 02138
+( 617 ) 491 - 1850 ext 769
+199
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+BNL 1/58 SERVER , DOE
+VDH
+Campbell , Graham ( BNL@BBN )
+Brookhaven National Laboratory
+Applied Mathematics Department
+Upton , New York 11973 ( 516 ) 345-4168
+BRAGG - TIP 2/38 TIP ARPA [ Finn , Tom]
+Ft . Bragg , North Carolina
+BRL 0/29 USER ARMY Taylor , Donald ( DTAYLOR @ OFFICE - 1 )
+Commander
+USA ARRADCOM
+Attn : DRDAR - MSG - T , D. Taylor
+Aberdeen Proving Ground
+Maryland 21005
+( 301 ) 278-5871
+CCA - SDMS 2/31 SERVER ARPA Herot , Chris ( HEROT @ CCA - TENEX )
+Computer Corporation of America
+575 Technology Square Cambridge , Massachusetts 02139 ( 617 ) 491-3670
+CCA - SIP 3/31 USER ARPA Eastlake , Donald ( DEE @ CCA - TENEX )
+Computer Corporation of America
+575 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 491-3670
+CCA - SPEECH 1/31 USER ARPA Low , David A. ( LOW @ CCA - TENEX )
+Computer Corporation of America
+575 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 491 - 3670
+CCA - TENEX 0/31 SERVER ARPA Sattley , Joanne z . ( JZS @ CCA - TENEX )
+Computer Corporation of America
+575 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 491-3670
+CCTC 0/20 SERVER , CCTC Limited
+Sharing port with EDN - UNIX
+Corrigan , Michael ( corrigan@CCTC )
+Defense Communications Agency
+Command and Control Technical
+Center
+11440 Isaac Newton Square
+Reston , Virginia 22090 ( 703 ) 437-2320
+CHII 2/54 SERVER ARPA
+Limited
+VDH
+McCammon , Michael ( CHI@USC - ISIE )
+Culler Harrison , Inc.
+150 - A Aero Camino
+Goleta , California 93017 ( 805 ) 968-1064
+200
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+CINCPAC - TIP 2/36 TIP ARPA Mitchell , Jonathan ( MITCHELL@ISI )
+Commander in Chief , Pacific
+Command
+CINCPAC/J61
+P.O. Box 29
+Camp Smith , Hawaii 96861
+( 808 ) 488-0941
+CMU - 10A 1/14 SERVER , ARPA
+Limited
+Wactlar , Howard ( WACTLAR @ CMU - 10B )
+Carnegie - Mellon University
+Computer Science Department
+Schenley Park Pittsburgh , Pennsylvania 15213
+( 412 ) 578-2571
+CMU- 10B 0/14 SERVER , ARPA
+Limited
+Wactlar , Howard (WACTLAR @ CMU - 10B )
+Carnegie - Mellon University
+Computer Science Department
+Schenley Park Pittsburgh , Pennsylvania 15213 ( 412 ) 578-2571
+CMU - 100 2/14 SERVER , ARPA
+Limited Wactlar , Howard ( WACTLAR @ CMU - 10B )
+Carnegie - Mellon University
+Computer Science Department Schenley Park Pittsburgh , Pennsylvania 15213
+( 412 ) 578-2571
+CMU - CMMP 3/14 SERVER , ARPA
+Limited
+Wactlar , Howard (WACTLAR @ CMU - 10B )
+Carnegie - Mellon University
+Computer Science Department
+Schenley Park Pittsburgh , Pennsylvania 15213
+( 412 ) 578-2571
+COLLINS - TIP 2/46 TIP ARPA
+Up 3-79
+Quilici , Timothy ( QUILICI@ISIE )
+Collins Telecommunication Systems Division
+Rockwell International Mail Stop 401-137
+P. O. Box 10462
+Dallas , Texas 75207
+( 214 ) 996-5280
+CTO - DDS 1/17 SERVER , ARPA
+Limited
+VDH
+McDonald , Michael ( MCDONALD @ CCA )
+Computer Corporation of America Cybernetics Technology Office
+Demo and Development Systems Suite 903 1600 Wilson Boulevard
+Arlington , Virginia 22209
+( 703 ) 522-1717
+201
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+DARCOM - TIP 2/50 TIP ARMY McCarty , Elaine ( MCCARTY @ OFFICE - 1 )
+Commander Army Materiel Development and
+Readiness Command Attn : DRXLS - LH , E. McCarty
+5001 Eisenhower Avenue Alexandria , Virginia 22333
+( 202 ) 274-8875 or 274-9151
+DCA DCA Czahor , Raymond ( DCACODE535@ISI )
+Defense Communications Agency
+Attn : Code 535 , Arpanet Management Branch
+Washington , D. C. 20305
+( 202 ) 692-6175
+DCEC 3/20 USER DCEC Biby , Dennis K. ( BIBY@BBNB )
+Defense Communications
+Engineering Center
+Code R820
+1860 Wiehle Avenue Reston , Virginia 22090
+( 703 ) 437-2271
+DCEC - TIP 2/20 TIP DCEC Biby , Dennis K. ( BIBY@BBNB )
+Defense Communications Engineering Center
+Code R820 1860 Wiehle Avenue
+Reston , Virginia 22090 ( 703 ) 437-2271
+DEC - MARLBORO 1/37 USER ARPA
+Up intermittently
+Gartley , Carl ( LCAMPBELL@SRI - KL )
+Digital Equipment Corporation
+DEC System- 10 Engineering
+200 Forest Street
+Marlborough , Massachusetts 01752
+( 617 ) 481-9511 ext 6570
+DOCB - TIP 2/25 TIP DOC Walters , William D. ( DOCB @ ISIE )
+Department of Commerce
+National Telecommunications and
+Information Administration
+325 Broadway
+Boulder , Colorado 80302 ( 303 ) 499-1000 ext 4414
+DTI 1/12 SERVER , CCTC
+Limited Jones , Paul B. ( paul@DTI )
+Digital Technology , Inc.
+302 East John Street Champaign , Illinois 61820
+( 217 ) 384-8500
+202
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+DTNSRDC 1/8 SERVER , NAVY
+Limited
+VDH
+Tinker , Robert W. ( DTNSRDC @ ISIE )
+David Taylor Naval Ship Research and Development Center
+Bethesda , Maryland 20084 ( 202 ) 227-1428
+EDN - UNIX 0/20 SERVER , DCEC
+Limited
+Sharing port with CCTC
+Margolis , Abe (DLUGOS @ BBNB )
+Defense Communications
+Engineering Center
+Code R820
+1860 Wiehle Avenue
+Reston , Virginia 22090 ( 703 ) 437-2441
+EGLIN 0/53 SERVER , AFSC
+Limited
+Spies , Herbert A. ( SPIES@BBN )
+Armament Development and Test
+Center ( AFSC )
+ADTC/ADDS Eglin Air Force Base , Florida
+32542
+( 904 ) 882- 2683
+ETAC 0/59 USER MAC/
+AFGWC
+Freimund , Marvin L. ( ETAC @ BBNB )
+Air Force Environmental
+Technical Application Center Scott Air Force Base ,
+Illinois 62225 ( 618 ) 256-4542 , 256-4440
+FNWC 1/64 USER ARPA
+To be connected to IMP 33 , 1779
+Bradford , Brian E. (FNWC @ SRI - KA )
+Navy Fleet Numerical Weather
+Central
+Monterey , California 93940
+( 408 ) 646-2201
+FNWC - SECURE 3/64 USER ARPA Bradford , Brian E. ( FNWC@SRI - KA )
+Navy Fleet Numerical Weather
+Central Monterey , California 93940
+( 408 ) 646-2201
+GUNTER - TIP 2/13 TIP AFDSDC James , Robert L. ( RJAMES@ISIE )
+Air Force Data Systems Design
+Center
+Management Technology Division
+AFDSDC/ DMT
+Gunter Air Force Base , Alabama
+36114
+( 205 ) 279-4171
+203
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+GUNTER - UNIX 0/13 SERVER , AFDSDC James , Robert L. ( RJAMES@ISIE )
+Limited Air Force Data Systems Design
+Center
+Management Technology Division
+AFDSDC/ DMT
+Gunter Air Force Base , Alabama
+36114
+( 205 ) 279-4171
+GWC - TIP 2/24 TIP MAC/
+Magtape AFGWC
+Volk , Dick (AFGWC @ BBNB )
+Air Force Global Weather Central
+MAC/ DO
+offutt Air Force Base , Nebraska
+68113
+( 402 ) 294-3950
+HARV - 10 0/9 SERVER , ARPA
+Limited Mealy , George H. ( MEALY@HARV - 10 )
+Harvard University
+Aiken Computation Laboratory
+33 Oxford Street
+Cambridge , Massachusetts 02138
+( 617 ) 266-8479 or 495-3998
+14 - TENEX 0/15 SERVER NASA Ernst , Dennis ( ERNST @ I4 - TENEX )
+Institute for Advanced
+Computation
+1095 Duane Avenue Sunnyvale , California 94086
+( 408 ) 735-0635
+I4B - TENEX 2/15 SERVER , NASA
+Limited
+Northlich , William
+( NORTHLICH@I4 - TENEX )
+Institute for Advanced
+Computation
+1095 Duane Avenue
+Sunnyvale , California 94086 ( 408 ) 735-0635
+ISI - SPEECH11 0/22 USER ARPA Casner , Steven L. ( CASNER@ISIB )
+Univ . of Southern California
+Information Sciences Institute
+4676 Admiralty Way
+Marina Del Rey , California 90291 ( 213 ) 822-1511 ext 153
+ISI - XGP11 0/52 USER ARPA Cass , Dwight E. ( CASS@ISIB )
+Univ . of Southern California
+Information Sciences Institute
+4676 Admiralty Way
+Marina Del Rey , California 90291 ( 213 ) 822-1511
+204
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+LBL 0/34 SERVER DOE Hall , Dennis E. ( HALL@BBN - TENEXB )
+Lawrence Berkeley Laboratory Building 50B , Room 2232D
+1 Cyclotron Road
+Berkeley , California 94720
+( 415 ) 843-2740 ext 6053
+LBL - UNIX 1/34 SERVER DOE
+Limited
+Hall , Dennis E. ( HALL@BBN - TENEXB )
+Lawrence Berkeley Laboratory Building 50B , Room 2232D 1 Cyclotron Road
+Berkeley , California 94720
+( 415 ) 843-2740 ext 6053
+LL
+0/10 SERVER , ARPA
+Limited
+Haines , Edward C. ( HAINES@LL )
+Massachusetts Institute of
+Technology
+Lincoln Laboratory Computer Systems Group
+244 Wood Street Lexington , Massachusetts 02173
+( 617 ) 862-5500 ext 7177
+LL - 11 3/10 USER ARPA Kantrowitz , William ( WK@LL - XN )
+Massachusetts Institute of
+Technology
+Lincoln Laboratory
+Computer Systems Group
+244 Wood Street
+Lexington , Massachusetts 02173
+( 617 ) 862-5500 ext 5536
+LL - ASG 1/44 SERVER ARPA
+Limited
+VDH
+Sax , Jack ( sax@LL - ASG )
+Massachusetts Institute of
+Technology Lincoln Laboratory
+Applied Seismology Group
+42 Carleton Street Cambridge , Massachusetts 02142
+( 617 ) 253-7860
+LL - XN 2/10 SERVER , ARPA
+Limited
+Kantrowitz , William ( WK@LL - XN )
+Massachusetts Institute of
+Technology Lincoln Laboratory
+Computer Systems Group
+244 Wood Street
+Lexington , Massachusetts 02173
+( 617 ) 862-5500 ext 5536
+205
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+LLL - COMP 0/21 SERVER , DOE
+Limited
+Swanson , John E. ( jes@LLL - COMP )
+University of California Lawrence Livermore Laboratory
+L - 316
+P.O. Box 808
+Livermore , California 94550
+( 415 ) 422-4348
+LLL - MFE 1/21 SERVER , DOE
+Limited
+Howard , Barry ( HOWARD @ LLL -MFE )
+University of California
+Lawrence Livermore Laboratory
+MFE Computer Center
+L - 402
+P.O. Box 5509
+Livermore , California 94550
+( 415 ) 422-4030
+LOGICON 1/35 USER , ARPA
+VDH
+Soleglad , Michael E. ( LOGICON@ISI )
+Logicon , Inc. Applied Data Systems Department
+( 3000 )
+4010 Sorrento Valley Boulevard
+P.O. Box 80158
+San Diego , California 92138
+( 714 ) 455-1330 ext 245
+LONDON 0/42 SERVER , ARPA
+Limited Das , Sunil K. ( PKT - UCL@SRI - KL )
+University College London Department of Statistics and
+Computer Science
+44 Gower Street
+London WCIE 6BT
+ENGLAND
+01-387-7050 ( UK )
+LONDON - GATEWAY 3/42 USER , ARPA
+VDH
+Gamble , Hugh R. ( GAMBLE@BBND )
+University College London Department of Statistics and Computer Science
+44 Gower Street London WCIE 6BT
+ENGLAND
+01-387-7050 ( UK )
+LONDON - TIP 2/42 TIP ARPA Das , Sunil K. ( PKT - UCL@SRI - KL )
+University College London Department of Statistics and
+Computer Science
+44 Gower Street London WC1E 6BT
+ENGLAND
+01-387-7050 ( UK )
+206
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+LONDON - VDH 1/42 SERVER , ARPA
+VDH
+Higginson , Peter L. ( KIRSTEIN@ISI )
+University College London Department of Statistics and
+Computer Science
+Gower Street
+London WC1E 6BT
+ENGLAND
+01-387-7050 ( UK )
+MIT - AI 2/6 SERVER ARPA Knight , Thomas F. ( TK @ MIT - AI )
+Massachusetts Institute of Technology
+Artificial Intelligence
+Laboratory
+545 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 253-7807
+MIT - DEVMULTICS 3/41 SERVER , ARPA
+Limited
+Greenberg , Bernard S.
+(Greenberg @ MIT - MULTICS )
+Honeywell Information Systems Cambridge Information Systems Laboratory
+575 Technology Square , 3rd Floor
+Cambridge , Massachusetts 02139
+MIT - DMS 1/6 SERVER ARPA Galley , Stuart W. ( SWG @MIT - DMS )
+Massachusetts Institute of
+Technology
+Laboratory for Computer Science Dynamic Modeling System 545 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 253-1418
+MIT - MC 3/44 SERVER ARPA Moon , David ( MOON@MIT - MC )
+Massachusetts Institute of
+Technology Laboratory for Computer Science
+Mathlab Group
+545 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 253-6765
+MIT - ML 3/6 SERVER , ARPA
+Limited
+Lewis , V. Ellen ( ELLEN@MIT - MC )
+Massachusetts Institute of
+Technology Knowledge Based Systems 545 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 253-5891
+207
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+MIT - MULTICS 0/6 SERVER ARPA Scott , Richard ( Scott @ MIT - MULTICS )
+Massachusetts Institute of
+Technology Information Processing Services
+ARCS 39-417 Cambridge , Massachusetts 02139
+( 617 ) 253-7020
+MIT - TIP 2/44 TIP ARPA Feingold , Oded
+( Feingold @MIT - MULTICS )
+Massachusetts Institute of
+Technology Laboratory for Computer Science
+Technical Services Group
+545 Technology Square Cambridge , Massachusetts 02139
+( 617 ) 253-6013
+MIT - XX 0/44 SERVER ARPA Gerson , Daniel S. ( DANG @ MIT - DMS )
+Massachusetts Institute of
+Technology
+Laboratory for Computer Science
+NE43-203
+545 Technology Square
+Cambridge , Massachusetts 02139
+( 617 ) 253-1429
+MITRE 0/17 SERVER , DCEC
+Limited
+Poh , Susan S. ( POH@ISI )
+MITRE/ METREK Corporation
+Information Systems Department 1820 Dolley Madison Blvd.
+Westgate Research Park
+McLean , Virginia 22101 ( 703 ) 827-6185
+MITRE - TIP 2/17 TIP ARPA Poh , Susan S. ( POH@ISI )
+MITRE / METREK Corporation Information Systems Department 1820 Dolley Madison Blvd. Westgate Research Park
+McLean , Virginia 22101
+( 703 ) 827-6185
+MOFFETT - ARC 0/45 SERVER , ARPA
+Limited Lau , Robert S. ( LAU@I4 - TENEX )
+Advanced Research Projects
+Agency ( ARPA )
+Research Center
+Moffett Field , Unit 1 , Bldg . 301 Mountain View , California 94035 ( 415 ) 968-9061
+208
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+MOFFETT - SUBNET 1/45 USER ARPA Lau , Robert S. (LAU @ I4 - TENEX )
+Advanced Research Projects
+Agency ( ARPA )
+Research Center Moffett Field , Unit 1 , Bldg . 301
+Mountain View , California 94035
+( 415 ) 968-9061
+NADC 3/8 USER , NAVY
+VDH
+Calkins , Ted (NADC @ OFFICE - 1 )
+Naval Air Development Center
+Attn : Code 8522 , Ted Calkins Warminster , Pennsylvania 18974 ( 215 ) 441-2474
+NBS - 10 0/19 SERVER , NBS
+Limited
+Walker , Justin ( JWALKER@NBS - 10 )
+National Bureau of Standards Institute for Computer Sciences
+and Technology
+Washington , D.C. 20234
+( 301 ) 921-2601
+NBS - TIP 2/19 TIP NBS Nielsen , Frances ( NIELSEN@NBS - 10 )
+National Bureau of Standards Institute for Computer Sciences
+and Technology
+Washington , D.C. 20234
+( 301 ) 921-2601
+NBS - UNIX 3/19 SERVER , NBS
+Limited
+Rosenthal , Robert ( rmr@NBS - UNIX )
+National Bureau of Standards
+Building 225 , Room B220 Washington , D.C. 20234
+( 301 ) 921-2601
+NCC - TIP 2/40 TIP DCA Santos , Paul ( SANTOS@BBNE )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491-1850 ext 603
+NCSC 1/53 USER , NAVY
+VDH
+Brown , David J. (NCSL @ OFFICE - 1 )
+Naval Coastal Systems Center
+Code 732
+Panama City , Florida 32407 ( 904 ) 234-4132
+NDRE 1/41 USER , ARPA
+VDH
+Lundh , Yngvar G. ( YNGVAR@SRI - KA )
+Norwegian Defence Research
+Establishment
+P.O. Box 25
+2007 Kjeller
+NORWAY
+( 02 ) 712660 ext 364
+209
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+NDRE - GATEWAY 3/41 USER , ARPA
+VDH
+Lundh , Yngvar G. ( YNGVAR @ SRI - KA )
+Norwegian Defence Research
+Establishment
+P.O. Box 25
+2007 Kjeller
+NORWAY
+( 02 ) 712660 ext 364
+NIC DCA Feinler , Elizabeth ( FEINLER@SRI - KL )
+SRI International
+Network Information Center
+Room J2021 333 Ravenswood Avenue
+Menlo Park , California 94025
+( 415 ) 326-6200 ext 3695
+NORSAR - 40A 0/41 USER ARPA Rieber - Mohn , Dag ( DAGRM @ SRI - KA )
+Royal Norwegian Council for
+Scientific and Industrial
+Research
+NTNF/ NORSAR
+P.O. Box 51
+N2007 Kjeller
+NORWAY
+( 02 ) 716915
+NORSAR - TIP 2/41 TIP ARPA Rieber - Mohn , Dag ( DAGRM@SRI - KA )
+Royal Norwegian Council for
+Scientific and Industrial
+Research
+NTNF / NORSAR
+P.O. Box 51
+N2007 Kjeller
+NORWAY
+( 02 ) 716915
+NOSC - CC 0/3 SERVER , NAVY
+Limited
+VDH
+Unger , Robert A. ( NOSC @OFFICE - 1 )
+Naval Ocean Systems Center
+Code 9131
+271 Catalina Blvd. San Diego , California 92152 ( 714 ) 225-2721
+NOSC - SDL 2/3 SERVER , ARPA
+Limited
+VDH
+Noel , J. Gregory ( Greg@NOSC - SDL )
+Naval Ocean Systems Center Systems Design Laboratory
+Code 822
+271 Catalina Blvd.
+San Diego , California 92152 ( 714 ) 225-2744
+210
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+NOSC - SECURE 1 1/3 SERVER , ARPA
+Limited
+Schilling , Larry ( SCHILLING @ ISI )
+Naval Ocean Systems Center Code 713 271 Catalina Blvd.
+San Diego , California 92152
+( 714 ) 225-7131
+NOSC - SECURE2 0/35 USER ARPA Metzger , John ( JMETZGER @ USC - ISIB )
+Naval Ocean Systems Center
+Code 8321
+EDATL Building , 600A
+271 Catalina Boulevard San Diego , California 92152
+( 714 ) 225-2083
+NOSC - SECURE3 3/35 USER ARPA Metzger , John ( JMETZGER @ USC - ISIB )
+Naval Ocean Systems Center
+Code 8321
+EDATL Building , 600A 271 Catalina Boulevard
+San Diego , California 92152
+( 714 ) 225-2083
+NPRDC - UNIX 4/3 SERVER , NAVY
+LIMITED
+VDH
+Wolfe , John H. ( WOLFE@USC - ECL )
+Navy Personnel Research and
+Development Center
+San Diego , California 92152
+( 714 ) 225-7121
+NPS 0/33 USER ARPA Norman , David ( NORMAN@ISIE )
+W. R. Church Computer Center
+Naval Postgraduate School
+Monterey , California 93940
+( 408 ) 646-2641
+NPS - TIP 2/33 TIP ARPA Norman , David ( NORMAN@ISIE )
+W. R. Church Computer Center Naval Postgraduate School Monterey , California 93940
+( 408 ) 646-2641
+NRL 0/8 SERVER , NAVY
+Limited
+VDH
+Shannon , Douglas P. ( NRL @ OFFICE - 1 )
+Naval Research Laboratory
+Research Computation Center
+Code 1721 4555 Overlook Avenue , S.W.
+Washington , D.C. 20375
+( 202 ) 767-3884
+NSWC - DL 4/8 SERVER , NAVY
+Limited
+VDH
+Eliezer , David
+Naval Surface Weapons Center Code K - 601
+Dahlgren Laboratory
+Dahlgren , Virginia
+( 703 ) 663-7187
+211
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+NSWC - WO 2/8 SERVER , NAVY
+Limited
+VDH
+Archer , Robert D. ( NSWC @ OFFICE - 1 )
+Naval Surface Weapons Center White Oak Laboratory
+Code K64
+Silver Springs , Maryland 20910
+( 202 ) 394-1909
+NSA 0/57 SERVER , NSA
+Limited
+Weiss , Howard S. ( DEDWARDS@ISI )
+Director , National Security
+Agency
+Attn : R17
+Ft . George G. Meade ,
+Maryland 20755
+( 301 ) 796-6380
+NTIA - ITS 1/25 SERVER , DOCB
+Limited
+VDH
+Payne , Judd A. ( judd@NTIA - ITS )
+National Telecommunications and
+Information Administration
+325 South Broadway
+Boulder , Colorado 80302
+( 303 ) 499-1000 ext 3200 or 4166
+NUSC 3/46 USER ,
+NAVY
+VDH
+Egeland , George S. ( NUSC @ OFFICE - 1 )
+Naval Underwater Systems Center
+Code 3142
+New London , Connecticut 06320
+( 203 ) 442-0771 ext 2993
+NUSC - NPT 2/9 SERVER , NAVY
+Limited
+VDH
+Schneller , Steve ( NUSC - NPT@ISIE )
+Naval Underwater Systems Center
+Computer Science Department
+Building 107 , Code 4451 Newport , Rhode Island 02840
+( 401 ) 841-3078
+NWC 3/3 SERVER , NAVY
+VDH
+Zenor , John J. ( NWC@USC - ISIE )
+Naval Weapons Center
+Attn : Code 31302 , John Zenor China Lake , California 93555 ( 714 ) 939-3888
+NYU 0/58 SERVER DOE Franceschini , Edward
+( FRANCESCHINI@BBN )
+New York University Courant Institute of
+Mathematical Sciences Courant Mathematics and Computing Laboratory
+251 Mercer Street New York , New York 10012
+( 212 ) 460-7291
+212
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+OFFICE - 1 0/43 SERVER ARMY Peters , Jeffrey ( PETERS @ OFFICE - 1 )
+Tymshare , Inc. Augmentation Resources Center 20705 Valley Green Drive Cupertino , California 95014
+( 408 ) 446-7259
+OFFICE - 2 1/43 SERVER ARMY Torres , Israel ( TORRES @ OFFICE - 2 )
+Tymshare , Inc. Augmentation Resources Center
+20705 Valley Green Drive Cupertino , California 95014
+( 408 ) 446-7092
+PARC - GATEWAY 1/32 USER ARPA Taft , Edward A. ( TAFT@PARC - MAXC )
+Xerox Corporation
+Palo Alto Research Center
+3333 Coyote Hill Road
+Palo Alto , California 94304 ( 415 ) 494-4419
+PARC - MAXC 0/32 SERVER , ARPA
+Limited Taft , Edward A. ( TAFT@PARC - MAXC )
+Xerox Corporation
+Palo Alto Research Center
+3333 Coyote Hill Road
+Palo Alto , California 94304
+( 415 ) 494-4419
+PARC - MAXC2 2/32 SERVER , ARPA
+Limited
+Taft Edward A. ( TAFT@PARC - MAXC )
+Xerox Corporation
+Palo Alto Research Center
+3333 Coyote Hill Road
+Palo Alto , California 94304
+( 415 ) 494-4419
+PENT - UNIX 3/26 USER AFDSDC Muir , Charles W. ( muir@ILL - UNIX )
+The Pentagon
+Air Force Data Services
+Center / SFA Room 10988 Washington , D. C. 20330
+( 202 ) 695-6174
+PENTAGON - TIP 2/26 TIP ARPA Muir , Charles W. ( muir@ILL - UNIX )
+The Pentagon
+Air Force Data Services
+Center / SFA
+Room 10988
+Washington , D. C. 20330 ( 202 ) 695-6174
+213
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+RADC - MULTICS 0/18 SERVER RADC Walker , Robert K.
+( Walker@RADC - MULTICS )
+Rome Air Development Center R & D Computer Facility ( ISF )
+Griffiss Air Force Base ,
+New York 13441
+( 315 ) 330-2501
+RADC - TIP 2/18 TIP RADC Walker , Robert K. ( Walker@RADC - MULTICS )
+Rome Air Development Center
+R & D Computer Facility ( ISF )
+Griffiss Air Force Base ,
+New York 13441 ( 315 ) 330-2501
+RADC - TOPS20 3/18 SERVER , RADC
+Limited
+Metzger , Richard
+( Metzger@RADC - TOPS20 )
+Rome Air Development Center
+ISCP
+Griffiss Air Force Base ,
+New York 13441
+( 315 ) 330-2846
+RADC - XPER 1/18 SERVER , RADC
+Limited
+VDH
+Metzger , Richard
+( Metzger@RADC - TOPS20 )
+Rome Air Development Center
+ISCP
+Griffiss Air Force Base ,
+New York 13441 ( 315 ) 330-2846
+Sharing port with ROCHESTER
+RAND - RCC 077 SERVER ARPA Wahrman , Mike ( mike@RAND- UNIX )
+The Rand Corporation
+1700 Main Street
+Santa Monica , California 90406
+( 213 ) 393-0411 ext 427
+RAND - TIP 2/7 TIP ARPA
+RAND - UNIX 3/7 SERVER ARPA
+Shell , Ron ( SHELL@RAND - RCC )
+The Rand Corporation Computer Services Department
+1700 Main Street
+Santa Monica , California 90406
+( 213 ) 393-0411 ext 7195
+O'Brien , Mike
+( LIAISON@RAND - UNIX )
+The Rand Corporation Rand Computation Center
+1700 Main Street Santa Monica , California 90406
+( 213 ) 393-0411 ext 7879
+-
+214
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+ROCHESTER 1/18 USER , ARPA
+VDH
+Nabielsky , Jose
+( FELDMAN@SUMEX - AIM )
+University of Rochester
+Department of Computer Science
+Rochester , New York 14627
+( 716 ) 275-5671
+Sharing port with RADC - XPER
+SAT - VDH 3/63 USER , ARPA
+VDH
+Bressler , Robert ( BRESSLER@BBNE )
+Bolt Beranek and Newman Inc.
+50 Moulton Street
+Cambridge , Massachusetts 02138
+( 617 ) 491 -1850 ext 477
+SDAC - 44 3/39 SERVER , ARPA
+Limited
+Hill , Alan R. ( SDAC @ ISI)
+Teledyne Geotech Seismic Data Analysis Center P.O. Box 334
+Alexandria , Virginia 22313 ( 703 ) 836-3882 ext 276
+SDAC - CCP 0/39 USER ARPA Miller , Douglas ( SDAC@ISI )
+Teledyne Geotech
+Seismic Data Analysis Center
+P.O. Box 334 Alexandria , Virginia 22313
+( 703 ) 836-3882
+SDAC - NEP 2/39 USER ARPA Hill , Alan R. ( SDAC@ISI )
+Teledyne Geotech
+Seismic Data Analysis Center
+P.O. Box 334
+Alexandria , Virginia 22313 ( 703 ) 836-3882 ext 276
+SDAC - UNIX 1/39 SERVER , ARPA
+Limited
+Whitaker , Anne D. ( SDAC @ ISI)
+Teledyne Geotech Alexandria Laboratories
+P.0 . Box 334 Alexandria , Virginia 22313
+( 703 ) 836-3882 ext 286
+SRI - C3PO 1/51 USER ARPA Mathis , James E. ( MATHIS@SRI - KL )
+SRI International Telecommunications Sciences
+Center Building 306B
+333 Ravenswood Avenue
+Menlo Park , California 94025 ( 415 ) 326-6200 ext 5150
+215
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+SRI - KA 0/51 SERVER ARMY Goodfellow , Geoffrey S.
+( GEOFF@SRI - KA )
+SRI International
+Interactive Computer Center
+333 Ravenswood Avenue
+Menlo Park , California 94025
+( 415 ) 326-6200 ext 3098
+SRI - KL 1/2 SERVER ARPA Goodfellow , Geoffrey S.
+( GEOFF@SRI - KA )
+SRI International
+Interactive Computer Center
+333 Ravenswood Avenue
+Menlo Park , California 94025
+( 415 ) 326-6200 ext 3098
+SRI - NSC11 3/2 USER ARPA Craighill , Earl ( CRAIGHILL@SRI - KL )
+SRI International
+Telecommunications Sciences
+Center
+333 Ravenswood Avenue Menlo Park , California 94025
+( 415 ) 326-6200 ext 4572
+SRI - R2D2 3/51 USER ARPA Mathis , James E. ( MATHIS@SRI - KL )
+SRI International Telecommunications Sciences
+Center
+Building 306B
+333 Ravenswood Avenue
+Menlo Park , California 94025
+( 415 ) 326-6200 ext 5150
+SRI - TSC 0/2 USER ARPA Craighill , Earl ( CRAIGHILL@SRI - KL )
+SRI International
+Telecommunications Sciences
+Center
+333 Ravenswood Avenue
+Menlo Park , California 94025
+( 415 ) 326-6200 ext 4572
+SRI - UNIX 2/51 SERVER , ARPA
+Limited
+Bass , John ( bass@SRI - UNIX )
+SRI International
+Interactive Computer Center 333 Ravenswood Avenue
+Menlo Park , California 94025
+( 415 ) 326-6200 ext 3819
+SRI - VIS11 2/2 USER ARPA Goodfellow , Geoffrey S.
+( GEOFF@SRI - KA )
+SRI International
+Interactive Computer Center 333 Ravenswood Avenue Menlo Park , California 94025
+( 415 ) 326-6200 ext 3098
+216
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+SU - AI 0/11 SERVER , ARPA
+Limited
+Crispin , Mark R. (MRC @ SU - AI )
+Stanford University
+Artificial Intelligence
+Laboratory Stanford , California 94305
+( 415 ) 497-4712
+SU - ISL 1/56 SERVER , ARPA
+Limited
+VDH
+Stewart , Larry ( LY@SU - AI )
+Stanford University
+Information Systems Laboratory
+Durand Building 105 Stanford , California 94305
+( 415 ) 497-4569
+SU - TIP 2/11 TIP ARPA McCune , Brian P. ( BPM@SU - AI )
+Stanford University
+Artificial Intelligence
+Laboratory
+Stanford , California 94305 ( 415 ) 497-4971
+SUMEX - AIM 0/56 SERVER ARPA Tucker , Robert ( TUCKER @ SUMEX - AIM )
+Stanford University Medical Center
+SUMEX Computer Project , TB105
+Stanford , California 94305
+( 415 ) 497-5208
+UCLA - ATS 0/1 SERVER ,
+Limited
+Coley , Anita L. ( COLEY@ISI )
+University of California
+Computer Science Department 3732 Boelter Hall
+Los Angeles , California 90024
+( 213 ) 825-8534
+UCLA - CCN 1/1 SERVER ARPA Braden , Robert ( BRADEN@UCLA - CCN )
+University of California
+Office of Academic Computing Math - Science Addition
+Los Angeles , California 90024
+( 213 ) 825-7518
+UCLA - SECURITY 2/1 SERVER , ARPA
+Limited
+Kline , Charles S. ( CSK@ISI )
+University of California
+Computer Science Department
+3532 Boelter Hall
+Los Angeles , California 90024
+( 213 ) 825-2756
+217
+HOST ACRONYMS
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+USC - ECL 3/23 SERVER ARPA Wiedel , James ( WIEDEL@USC - ECL )
+Univ . of Southern California Engineering Computer Laboratory
+Powell Hall of Information
+Sciences
+Room 204 Los Angeles , California 90007
+( 213 ) 741-5520
+USC - ISI 1/22 SERVER ARPA Russell , Dale S. ( DALE@ISIB )
+Univ . of Southern California
+Information Sciences Institute
+4676 Admiralty Way
+Marina Del Rey , California 90291
+( 213 ) 822-1511 ext 189
+USC - ISIB 3/52 SERVER , ARPA
+Limited
+Russell , Dale s . ( DALE@ISIB )
+Univ . of Southern California
+Information Sciences Institute
+4676 Admiralty Way
+Marina Del Rey , California 90291
+( 213 ) 822-1511 ext 189
+USC - ISIC 2/22 SERVER ARPA Russell , Dale s . ( DALE@ISIB )
+Univ . of Southern California
+Information Sciences Institute
+4676 Admiralty Way
+Marina Del Rey , California 90291
+( 213 ) 822-1511 ext 189
+USC - ISIE 1/52 SERVER ARPA Russell , Dale s . ( DALE@ISIB )
+Univ . of Southern California Information Sciences Institute
+4676 Admiralty Way Marina Del Rey , California 90291
+( 213 ) 822-1511 ext 189
+USC - TIP 2/23 TIP ARPA Pepin , James M. ( PEPIN@USC - ECL )
+Univ . of Southern California School of Electrical Engineering
+Room 314 , Powell Hall of
+Information Sciences Los Angeles , California 90007 ( 213 ) 741-5520
+UTAH - 11 0/4 USER ARPA Randall , George E. ( GRANDALL@ISIE )
+University of Utah Department of Computer Science 3160 Merrill Engineering Bldg .
+Salt Lake City , Utah 84112 ( 801 ) 581-8224
+218
+ARPANET DIRECTORY HOST ACRONYMS
+NIC 46099 Dec. 1978
+ACRONYM ADDR . TYPE SPONSOR LIAISON and SITE ADDRESS
+( Dec )
+UTAH - TIP 2/4 TIP ARPA Hearn , Anthony C. ( HEARN@USC - ECL )
+University of Utah Department of Computer Science
+3160 Merrill Engineering Bldg .
+Salt Lake City , Utah 84112 ( 801 ) 581-8224
+UTEXAS 0/62 SERVER , ARPA
+Limited
+Phillips , David M. ( david@UTEXAS )
+University of Texas Computation Center
+Austin , Texas 78712
+( 512 ) 471-7202
+WHARTON 1/46 SERVER , ARPA
+VDH
+Morgan , Howard (MORGAN @ WHARTON )
+University of Pennsylvania Wharton School of Business
+Decision Science Department Room W - 83 , Dietrich Hall Philadelphia , Pennsylvania 19174
+( 215 ) 243-7731
+WPAFB 0/47 SERVER , AFSC
+Limited Fall , Leonard B. ( JANSEN@BBN )
+Aeronautical Systems Division Computer Center
+ASD / ADOS Wright - Patterson Air Force Base ,
+Ohio 45433
+( 513 ) 255-6377
+WPAFB - AFAL 1/47 SERVER , AFSC
+VDH
+Baker , Robert (BAKER @ WPAFB - AFAL )
+Air Force Avionics Laboratory
+AFAL/AAF
+Wright Patterson Air Force Base ,
+Ohio 45433
+( 513 ) 255-2446
+WPAFB - TIP 2/47 TIP AFSC Fall , Leonard B. ( JANSEN@BBN )
+Aeronautical Systems Division Computer Center
+ASD - ADOS Wright - Patterson Air Force Base ,
+Ohio 45433
+( 513 ) 255-6377
+219
